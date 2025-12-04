@@ -18,7 +18,7 @@
 ## Introduction
 Gesture-based interfaces enable users to interact with systems using body movements, particularly hand gestures. These systems are increasingly prevalent across various domains including home automation, healthcare, automotive, and virtual reality environments. Well-designed gesture interfaces offer intuitive and natural interaction patterns that users can quickly adapt to.
 
-This project aims to develop a system that recognizes hand gestures via an Artificial Neural Network to control a YouTube video player. Additionally, the system incorporates automatic pause functionality when it detects the user is sleeping or has left the viewing area. You can see a demonstration [here](https://www.youtube.com/watch?v=gHVrGI3632s).
+This project aims to develop a system that recognizes hand gestures via an Artificial Neural Network to control a YouTube video player. Additionally, the system incorporates automatic pause functionality when it detects the user is sleeping or has left the viewing area. You can see a demonstration [here](https://www.youtube.com/watch?v=eF8Kz6bEl-A).
 
 YouTube was selected as the target application due to its widespread popularity, web-based accessibility, diverse content library, and no installation requirements. However, the same gesture recognition methodology could be adapted to control local media players or other applications with keyboard shortcut support or API access.
 
